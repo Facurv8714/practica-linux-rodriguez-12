@@ -55,3 +55,31 @@ Archivos en cada directorio:
 -rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/temporal/documento_02.txt
 -rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/temporal/documento_01.txt
 
+========== VERIFICACIÓN DE ARCHIVOS - ops ==========
+
+Estructura de directorios creada:
+/mnt/lvm_storage_ops
+/mnt/lvm_storage_ops/lost+found
+/mnt/lvm_storage_ops/proyectos
+/mnt/lvm_storage_ops/proyectos/archivados
+/mnt/lvm_storage_ops/proyectos/activos
+/mnt/lvm_storage_ops/temporal
+/mnt/lvm_storage_ops/respaldos
+
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 27 Dec  1 23:24 /mnt/lvm_storage_ops/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:24 /mnt/lvm_storage_ops/proyectos/archivados/documento_06.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:24 /mnt/lvm_storage_ops/proyectos/archivados/documento_07.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:25 /mnt/lvm_storage_ops/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:25 /mnt/lvm_storage_ops/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:25 /mnt/lvm_storage_ops/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:25 /mnt/lvm_storage_ops/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:25 /mnt/lvm_storage_ops/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:24 /mnt/lvm_storage_ops/temporal/documento_03.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:24 /mnt/lvm_storage_ops/temporal/documento_04.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:24 /mnt/lvm_storage_ops/temporal/documento_01.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:24 /mnt/lvm_storage_ops/temporal/documento_05.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:24 /mnt/lvm_storage_ops/temporal/documento_02.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:26 /mnt/lvm_storage_ops/respaldos/documento_10.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:26 /mnt/lvm_storage_ops/respaldos/documento_09.txt
+
