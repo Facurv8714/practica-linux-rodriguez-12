@@ -1,5 +1,4 @@
-========== INFORMACIÓN DE USUARIOS Y GRUPOS - admin
-==========
+========== INFORMACIÓN DE USUARIOS Y GRUPOS - admin ==========
 Usuario actual:
 vagrant
 Grupos del usuario:
