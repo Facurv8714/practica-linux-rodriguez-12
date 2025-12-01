@@ -27,3 +27,31 @@ Archivos en cada directorio:
 -rw-r--r-- 1 root root 27 Dec  1 22:59 /mnt/lvm_storage_admin/respaldos/documento_10.txt
 -rw-r--r-- 1 root root 27 Dec  1 22:59 /mnt/lvm_storage_admin/respaldos/documento_09.txt
 
+========== VERIFICACIÓN DE ARCHIVOS - dev ==========
+
+Estructura de directorios creada:
+/mnt/lvm_storage_dev
+/mnt/lvm_storage_dev/proyectos
+/mnt/lvm_storage_dev/proyectos/activos
+/mnt/lvm_storage_dev/proyectos/archivados
+/mnt/lvm_storage_dev/respaldos
+/mnt/lvm_storage_dev/lost+found
+/mnt/lvm_storage_dev/temporal
+
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 27 Dec  1 23:18 /mnt/lvm_storage_dev/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:18 /mnt/lvm_storage_dev/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:18 /mnt/lvm_storage_dev/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:18 /mnt/lvm_storage_dev/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:18 /mnt/lvm_storage_dev/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/proyectos/archivados/documento_06.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/proyectos/archivados/documento_07.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:19 /mnt/lvm_storage_dev/respaldos/documento_10.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:19 /mnt/lvm_storage_dev/respaldos/documento_09.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/temporal/documento_05.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/temporal/documento_03.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/temporal/documento_04.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/temporal/documento_02.txt
+-rw-r--r-- 1 root root 27 Dec  1 23:17 /mnt/lvm_storage_dev/temporal/documento_01.txt
+
