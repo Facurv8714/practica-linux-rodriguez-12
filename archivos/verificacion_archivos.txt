@@ -1,0 +1,29 @@
+========== VERIFICACIÓN DE ARCHIVOS - admin ==========
+
+Estructura de directorios creada:
+
+/mnt/lvm_storage_admin
+/mnt/lvm_storage_admin/temporal
+/mnt/lvm_storage_admin/proyectos
+/mnt/lvm_storage_admin/proyectos/archivados
+/mnt/lvm_storage_admin/proyectos/activos
+/mnt/lvm_storage_admin/lost+found
+/mnt/lvm_storage_admin/respaldos
+
+Archivos en cada directorio:
+-rw-r--r-- 1 root root 27 Dec  1 22:54 /mnt/lvm_storage_admin/temporal/documento_01.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:54 /mnt/lvm_storage_admin/temporal/documento_05.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:54 /mnt/lvm_storage_admin/temporal/documento_04.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:54 /mnt/lvm_storage_admin/temporal/documento_03.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:54 /mnt/lvm_storage_admin/temporal/documento_02.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:54 /mnt/lvm_storage_admin/proyectos/archivados/documento_06.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:54 /mnt/lvm_storage_admin/proyectos/archivados/documento_07.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:54 /mnt/lvm_storage_admin/proyectos/archivados/documento_08.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:57 /mnt/lvm_storage_admin/proyectos/activos/documento_01.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:57 /mnt/lvm_storage_admin/proyectos/activos/documento_05.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:57 /mnt/lvm_storage_admin/proyectos/activos/documento_04.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:57 /mnt/lvm_storage_admin/proyectos/activos/documento_03.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:57 /mnt/lvm_storage_admin/proyectos/activos/documento_02.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:59 /mnt/lvm_storage_admin/respaldos/documento_10.txt
+-rw-r--r-- 1 root root 27 Dec  1 22:59 /mnt/lvm_storage_admin/respaldos/documento_09.txt
+
